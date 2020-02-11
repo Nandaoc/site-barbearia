@@ -1,0 +1,63 @@
+#banner {
+	width: 100%;
+	height: 500px;
+}
+
+.principal{
+	padding: 30px;
+}
+
+.titulo-centralizado {
+	text-align: center;
+	font-size: 50px;
+	margin-top: 10px;
+}
+
+#primeiro-paragrafo {
+	text-align: center;
+	font-size: 20px;
+	margin-top: 20px;
+}
+
+#missao {
+	text-align: center;
+	font-size: 25px;
+	margin-top: 10px;
+	font-style: italic;
+}
+
+#segundo-paragrafo {
+	text-align: center;
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+em strong {
+	color: #FF0000;
+}
+
+#encontre-nos {
+	font-size: 20px;
+	text-transform: uppercase;
+	margin-right: 200px;
+	margin-bottom: 20px;
+}
+
+.mapa {
+	margin-top: 40px;
+	margin-left: 400px;
+	margin-bottom: 30px;
+}
+
+footer {
+	text-align: center;
+	background: #000000;
+	padding: 40px 0;
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
